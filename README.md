@@ -1,5 +1,5 @@
 # My-certifications
-Archive of my certification
+Archive of my certifications
 
 | Certification | External Link |
 | ------------- | ------------- |
