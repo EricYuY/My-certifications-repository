@@ -11,3 +11,4 @@ Archive of my certifications
 | Cisco Learning -  Networking Essentials | [Link](https://www.credly.com/badges/b8b3bed0-8d29-4309-8bb7-3e04011da356/public_url) |
 | Cisco Learning - Cybersecurity Essentials  | [Link](https://www.credly.com/badges/631e247e-3b90-4120-a5b2-24bd1b686858/public_url) |
 | Google Project Management - Full Paid Certification  | [Link](https://www.credly.com/badges/38bd4873-5697-498e-a2c8-36d13e0e9988/public_url) ([1](https://coursera.org/share/3ffd6977d507a0e4caac98ab758182e3) - [2](https://coursera.org/share/116822f72a9930db800eeb7d829c0d5b) - [3](https://coursera.org/share/41c5a690115720032d88690398c72b5d) - [4](https://coursera.org/share/87906157686fe5eecf1587ee55a7f0fd) - [5](https://coursera.org/share/05ea5154a4b8dfd7ab45e00cdfcf4c95) - [6](https://coursera.org/share/04de604951fa3e2648016fe74e3b429c))|
+ 
